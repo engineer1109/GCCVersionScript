@@ -1,0 +1,8 @@
+CLASSA_1.0 {
+    global:
+        funcA;
+        _ZN2AA5funcBEv;
+
+    local:
+        *;
+};
